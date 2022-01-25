@@ -11,3 +11,5 @@
 [20. Who can be invited as a guest speaker and why?](20.-who-can-be-invited-as-a-guest-speaker-and-why.md)
 
 [21. How can you make an analysis of the accomplished game?](21.-how-can-you-make-an-analysis-of-the-accomplished-game.md)
+
+![](../.gitbook/assets/03\_soprovozhdenie-uchastnikov-v-hode-igri.jpg)

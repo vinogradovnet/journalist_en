@@ -9,3 +9,5 @@ Over the past few years, a number of new game spreads and formats have been succ
 [28. What are the possible directions for development of the educational games "Journalist"?](28.-what-are-the-possible-directions-for-development-of-the-educational-games-journalist.md)
 
 [29. Who invented the educational game "Journalist"?](29.-who-invented-the-educational-game-journalist.md)
+
+![](../.gitbook/assets/05\_perspektivi-igri.jpg)

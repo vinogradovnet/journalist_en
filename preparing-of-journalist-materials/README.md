@@ -7,3 +7,5 @@
 [24. What should the participants get as a result?](24.-what-should-the-participants-get-as-a-result.md)
 
 [25. How to prepare photos?](25.-how-to-prepare-photos.md)
+
+![](../.gitbook/assets/04\_podgotovka-zhurnalistskih-materialov.jpg)

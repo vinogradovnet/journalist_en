@@ -21,3 +21,5 @@
 [14. How can you organize the migration of students' groups during the game?](14.-how-can-you-organize-the-migration-of-students-groups-during-the-game.md)
 
 [15. Which Internet services can be useful for preparing the final general publication?](15.-which-internet-services-can-be-useful-for-preparing-the-final-general-publication.md)
+
+![](../.gitbook/assets/02\_organizatsiya-igri.jpg)
