@@ -7,3 +7,5 @@
 [3. What is reflexive journalism?](3.-what-is-reflexive-journalism.md)
 
 [4. What principles is the "Journalist" game built on?](4.-what-principles-is-the-journalist-game-built-on.md)
+
+![](../.gitbook/assets/01\_istoki-i-osnovaniya.jpg)
